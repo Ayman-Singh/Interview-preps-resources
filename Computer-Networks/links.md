@@ -3,3 +3,5 @@ cisco: https://www.netacad.com/launch?id=f393c38f-b410-4d2b-8275-70e144273519&ta
 https://onl.kmi.open.ac.uk/
 stanford: https://www.scs.stanford.edu/10au-cs144/notes/l1.pdf
 extras: https://www.practicalnetworking.net/
+
+reddit: https://www.reddit.com/r/cscareerquestions/comments/ufhjjk/what_are_the_best_resources_to_study_system_design/
